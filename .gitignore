@@ -1,0 +1,4 @@
+# Project exclude paths
+/product_client/target/
+/product_tests/target/
+/utils/target/
